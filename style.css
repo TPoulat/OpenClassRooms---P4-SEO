@@ -39,6 +39,13 @@ a:hover {
     position: relative;
 }
 
+#bloc-6{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+}
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
