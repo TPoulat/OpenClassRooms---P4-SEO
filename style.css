@@ -371,10 +371,6 @@ a:hover {
     width: 75%;
 }
 
-.col-sm-4{
-    width: 50%;
-}
-
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -730,7 +726,7 @@ h3 {
 }
 
 .med-width-whitespace {
-    max-width: 800px;
+    max-width: 100%;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
 }
